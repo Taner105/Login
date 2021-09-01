@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.arka{
+    background-color: red;
+    width: auto;
+    height: 580px;
+}
+.kutu{
+    width: 400px;
+    height: 450px;
+    background-color: yellow;
+    position: relative;
+    margin: auto;
+    top: 55px;
+    border-radius: 10px;
+  
+}
+.kayıt_header{
+    width: 150px;
+    height: 27px;
+    border-style: solid;
+    padding-top: 3px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: -30%;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 20;
+    position: relative;
+    top: 15px;
+    
+    
+    
+}
+.kutu input[type="text"]{
+    height: 30px;
+    position: relative;
+    margin-left: 13px;
+    margin-right: -13px;
+    top: 25px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 13px;
+}
+.kutu input[type="email"], input[type="number"], input[type="password"], input[type="password"]{
+    height: 30px;
+    width: 250px;
+    position: relative;
+    top: 40px;
+    margin-left: 15%;
+    margin-right: -15%;
+    margin-top: 5px;
+    border-radius: 10px;
+    text-align: center;
+    
+
+}
+.kutu input[type="submit"]{
+    height: 25px;
+    width: 75px;
+    position: relative;
+    top: 55px;
+    margin-left: 35%;
+    margin-right: -35% ;
+    border-radius: 10px;
+}
+.facebooklogin{
+    width: 180px;
+    height: 27px;
+    background-color: blue;
+    margin: 100px auto;
+    text-align: center;
+    padding-top: 3px;
+    border-radius: 10px;
+    
+
+
+}
+.facebooklogin a{
+    color: white;
+    text-decoration: none;
+}
